@@ -1,7 +1,6 @@
 import 'package:covid/utils/constants.dart';
 import 'package:flutter/material.dart';
 
-
 import 'getting_started.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -30,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset(Constants.imageAssest('food.png')),
+            Image.asset(Constants.imageAssest('splash1.png')),
             const SizedBox(height: 8.0),
             const Text(
               "No waiting for food",
@@ -41,7 +40,6 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
           ],
         ),
-        
       ),
     );
   }
