@@ -30,9 +30,10 @@ class _SplashScreenState extends State<SplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(Constants.imageAssest('splash1.png')),
+            // width: size.width * 0.5, height: size.height * 0.5),
             const SizedBox(height: 8.0),
             const Text(
-              "No waiting for food",
+              "No waiting for Positive",
               style: TextStyle(
                 fontSize: 16,
                 color: Color(0xff838383),

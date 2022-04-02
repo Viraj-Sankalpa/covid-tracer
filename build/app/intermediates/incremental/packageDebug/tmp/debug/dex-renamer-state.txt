@@ -1,4 +1,4 @@
-#Thu Mar 31 10:37:30 IST 2022
+#Sat Apr 02 15:02:25 IST 2022
 base.0=/home/viraj/project_1/covid-tracer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
